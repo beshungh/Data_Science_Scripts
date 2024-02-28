@@ -1,10 +1,11 @@
-Automated PostgreSQL Data Import Script Using Jupyter Notebook
+## Automated PostgreSQL Data Import Script Using Jupyter Notebook
 
-Description:
+### Description
+
 This Python script is a powerful and efficient solution I designed to streamline my process of importing CSV files into a PostgreSQL database. My passion for PostgreSQL led me to develop this script. 
 The script automates my tedious task of creating tables and importing data, allowing for a seamless and time-saving workflow.
 
-Features and Workflow of this script:
+  Features and Workflow of this script:
 1. File Organization:
 The script begins by identifying all CSV files in the current directory. It then creates a new directory named 'datasets' (or uses an existing one) and moves the CSV files into this directory.
 This step ensures a well-organized and centralized location for dataset management.
